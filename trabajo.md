@@ -1,9 +1,19 @@
-# Presentación trabajos finales
+# Presentacion�trabajos finales
 
-## Análisis preliminar
+## Analisis  preliminar
   
-  - Presentación de la empresa
+  - Presentacion de la empresa
   - Debe incluir:
     - Historia
     - Rubro
-  - Análisis de la problemática actual de la empresa, con enfoque en los problemas tecnológicos detectados
+  - Analisis  de la problematica  actual de la empresa, con enfoque en los problemas tecnologicos detectados
+##Solucion propuesta
+   ### Diagramas:
+     - Modelo de Entidad Relacion 4 entidades)
+         Usuarios
+         Roles
+         Ventas
+         Ventas_detalle
+         Productos
+         Proveedores
+         Clientes
